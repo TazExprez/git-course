@@ -1,3 +1,7 @@
 images/
 passwords.env
 testing.env
+# Ignore every file inside images/cars/ with images/cars/**
+# Ignore all js files with *.js
+# Ignore all logs folders with logs
+# Remember to put all important files that are for your computer only inside of a .gitignore file
